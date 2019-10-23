@@ -1,2 +1,2 @@
 # Calendar
-Exemplo usando classe Calendar doo java.
+Exemplo usando classe Calendar do java.
